@@ -1,0 +1,43 @@
+
+
+
+
+17/04/2026
+<h1>UN LEON SE ESCAPO DE SU JAULA Y LA GENTE ESTABA MUY ASUSTADA</h1>
+ 
+<style> 
+body{
+background-color:F69DCF;
+font-family:arial;
+margin:30px; 
+}
+</style>
+<style>
+h1{
+color:black;
+font-size:50px;
+font-family:white;
+background-color:white;
+text aling:center;
+
+</style>
+<h2>necesitan ayuda</h2>
+<img src="https://img.chilango.com/cdn-cgi/image/width=680,height=510,quality=75,format=auto,onerror=redirect/2025/02/leon-en-el-edomex.jpeg">
+<p>Ayuda urgente, por favor! La comunidad se encuentra en estado de alerta y muchas personas están pidiendo apoyo inmediato, ya que se ha reportado la presencia de un león suelto en la zona. La situación ha generado miedo y preocupación entre los vecinos, especialmente entre familias con niños, adultos mayores y personas que transitan por las calles.
+
+Varios habitantes han solicitado la presencia rápida de las autoridades y de los equipos especializados en manejo de animales para controlar la emergencia de manera segura. Mientras tanto, se recomienda a toda la población permanecer en sus hogares, cerrar puertas y ventanas, evitar salir a la calle y no acercarse bajo ninguna circunstancia al animal.
+
+También se pide mantener la calma, estar atentos a la información oficial y avisar de inmediato a las autoridades si se observa al león en cualquier sector. La prioridad en este momento es proteger a la comunidad y lograr que el animal sea capturado sin poner en riesgo a las personas ni al propio león.</p>
+GABRIELA LOPEZ ZARATE 7A
+
+
+
+
+
+
+
+
+
+
+
+
